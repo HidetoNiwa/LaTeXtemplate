@@ -1,0 +1,13 @@
+*.log
+*.aux
+*.gz
+*.dvi
+*.lof
+*.lot
+*.toc
+*.idx
+main.pdf
+main.fls
+main.fdb_latexmk
+main.synctex(busy)
+.svn
